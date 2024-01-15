@@ -1,5 +1,5 @@
 const app = require('./app');
-const db = require('./conifg/mongoDb');
+const db = require('./config/mongoDb');
 
 require('dotenv').config();
 
